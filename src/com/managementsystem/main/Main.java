@@ -2,8 +2,8 @@ package com.managementsystem.main;
 
 import com.managementsystem.classes.Employee.Builder;
 
-public class Main {
-
+public class Main
+{
     public static void main(String[] args)
     {
         Builder newEmp = new Employee.Builder("Abby", "Jones", 2231, 14)
